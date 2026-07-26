@@ -7,5 +7,5 @@ A beginner-friendly terminal-based Sudoku game built using C++.
 - 
 🛠️ How to Run:
 1. Open your terminal in the project folder.
-2. Compile: `g++ main.cpp -o Sudoku`
+2. Compile: `g++ main.cpp -o Sudoku.`
 3. Run: `.\Sudoku`
